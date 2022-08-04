@@ -1,6 +1,6 @@
-## Interface: 90207
+## Interface: 90205
 ## Title: Reputation Sorter
-## Version: 9.2.7
+## Version: 9.2.5
 ## Notes: Change the order of your Reputations.
 ## Author: Andols
 ## SavedVariablesPerCharacter: Rs_order
