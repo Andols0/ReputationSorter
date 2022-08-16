@@ -1,4 +1,3 @@
-----Version 9.0.2  Game Version 9.0.2
 local AChange, q, ToggleUnused, Rs_info, Update_Rs_order, CleanRsorder, AddRsorder, newrow
 
 local function Framecreation(num)
