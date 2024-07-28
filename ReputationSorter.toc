@@ -1,8 +1,11 @@
-## Interface: 90207
+## Interface: 110000
 ## Title: Reputation Sorter
-## Version: 9.2.7
+## Version: 11.0.0
 ## Notes: Change the order of your Reputations.
 ## Author: Andols
-## SavedVariablesPerCharacter: Rs_order
+## SavedVariablesPerCharacter: RS_Save
+
+## X-Curse-Project-ID: 91544
+
 Rs.xml
 Rs.lua
