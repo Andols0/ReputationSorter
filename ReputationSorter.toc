@@ -1,6 +1,6 @@
-## Interface: 110200
+## Interface: 110207
 ## Title: Reputation Sorter
-## Version: 11.2.0
+## Version: 11.2.7
 ## Notes: Change the order of your Reputations.
 ## Author: Andols
 ## SavedVariablesPerCharacter: RS_Save
